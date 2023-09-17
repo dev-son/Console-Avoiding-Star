@@ -1,0 +1,6 @@
+﻿  Player.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,12): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,12): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  Star.cpp
+  코드를 생성하고 있습니다...

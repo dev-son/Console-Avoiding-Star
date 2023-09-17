@@ -1,0 +1,13 @@
+﻿  Console.cpp
+C:\Users\imc\Documents\GitHub\Console-Avoiding-Star\LinkedList_Star\Console.cpp(5,15): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\imc\Documents\GitHub\Console-Avoiding-Star\LinkedList_Star\Console.cpp(5,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\imc\Documents\GitHub\Console-Avoiding-Star\LinkedList_Star\Console.cpp(11,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\imc\Documents\GitHub\Console-Avoiding-Star\LinkedList_Star\Console.cpp(11,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\imc\Documents\GitHub\Console-Avoiding-Star\LinkedList_Star\Console.cpp(23,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\imc\Documents\GitHub\Console-Avoiding-Star\LinkedList_Star\Console.cpp(23,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  LinkedList.cpp
+  Player.cpp
+  Star.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  LinkedList_Star.vcxproj -> C:\Users\imc\Documents\GitHub\Console-Avoiding-Star\Debug\LinkedList_Star.exe

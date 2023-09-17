@@ -159,9 +159,6 @@ void LikedList::Delete(Node* _node)
 	delete _node;
 }
 
-
-
-
 //
 //   // 앞에 노드
 //
