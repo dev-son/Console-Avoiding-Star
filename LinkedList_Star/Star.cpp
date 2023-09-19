@@ -6,15 +6,12 @@
 // 1. 별을 30개 만들어준다.
 void Star::Createtor()
 {
-	
+
 }
 
 void Star::Drop()
 {
-	for (int i = 0; i < 30; i++)
-	{
-		m_posY++;
-	}
+	m_posY++;
 }
 
 void Star::Render()
